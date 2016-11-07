@@ -88,5 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Ignore Secrets
 client_secret.json
 

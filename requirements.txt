@@ -1,1 +1,1 @@
-googlemaps
+google-api-python-client
